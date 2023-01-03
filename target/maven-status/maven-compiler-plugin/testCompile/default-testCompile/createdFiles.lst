@@ -1,0 +1,3 @@
+com\petstore\testsuite\PetCrudTest.class
+com\petstore\testsuite\UserCrudTest.class
+com\petstore\testbase\TestBase.class

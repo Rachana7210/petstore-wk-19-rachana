@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User crud test","This will create new user","SUCCESS","2023-01-03T21:59:25.362Z[Europe/London]","0.0","0.58"
+"User crud test","This test will Update the user information","SUCCESS","2023-01-03T21:59:25.940Z[Europe/London]","0.0","1.16"
+"User crud test","Delete the pet and verify if the user is deleted!","SUCCESS","2023-01-03T21:59:27.099Z[Europe/London]","0.0","1.13"
