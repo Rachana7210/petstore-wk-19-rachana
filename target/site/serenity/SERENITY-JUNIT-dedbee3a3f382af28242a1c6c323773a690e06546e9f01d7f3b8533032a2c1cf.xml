@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Petstore Application" skipped="0" tests="1" time="4.65" timestamp="2023-01-11T20:33:43.946Z[Europe/London]"><testcase name="CRUD Test"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.petstore.cucumber.steps.PetStepdefs.iCreateANewPetByProvidingTheInformationIdNameCatIDCnamePhotourlTidTnameStatus(PetStepdefs.java:22)&#13;
+✽.When I create a new pet by providing the information id "101" name "Jira" catID "219" cname "puppy" photourl "saratbuopcom" tid "9569" tname "doggy" status "sold"(petstore.feature:6)&#13;
+</system-err></testcase></testsuite>

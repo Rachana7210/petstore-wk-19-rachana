@@ -7,8 +7,16 @@ public class Path {
     /*
      * This is base path for student api
      */
-    public static final String PET= "/pet";
+    public static final String PET = "/pet";
 
-    public static final String USER= "/user";
+
+    /*
+     * This is base path for Store api
+     */
+    public static final String USER = "/user";
+    /*public static final String AUTHENTICATE = "/authenticate";
+
+    public static final String ACCOUNT = "/account";*/
+
 
 }
